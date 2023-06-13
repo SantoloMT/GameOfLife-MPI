@@ -1,5 +1,5 @@
 # GamesOfLife-MPI
-Conway's Game of Life developed in C with OpenMPI           ![](https://blog.datawrapper.de/wp-content/uploads/2021/06/game-of-life-loop-cropped.gif =250x250)
+Conway's Game of Life developed in C with OpenMPI           
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 
@@ -18,5 +18,5 @@ All other live cells die in the next generation. Similarly, all other dead cells
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed, live or dead; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.
 
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
